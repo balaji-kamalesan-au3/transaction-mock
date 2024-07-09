@@ -12,3 +12,10 @@ const merchant = {
 
 
 const masterTransaction = []
+
+function transfer(amount, type) {
+
+}
+
+transfer(100, "dr")
+
